@@ -20,3 +20,7 @@ Should you use this for critical software?  No.
 ## How can I use it?
 
 Look at the test code.  I may post examples here in the future.
+
+### Other stuff
+
+We use [Travis CI](https://travis-ci.org/) because it is cool.
